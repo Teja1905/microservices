@@ -1,3 +1,9 @@
+http://localhost:4010/oauth/token?username=a&password=p&grant_type=password
+
+http://localhost:8010/Skill/save
+
+http://localhost:3010/rec/Skill/save
+
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
